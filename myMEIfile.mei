@@ -10,8 +10,21 @@
         </fileDesc>
         <encodingDesc/>
         <workDesc>
-        <work/>
-        <workDesc/>
+          <work/>
+        </workDesc>
     </meiHead>
-    <music/>
+    <music>
+      <body>
+        <mdiv>
+          <score>
+            <scoreDef>
+              <staffGrp>
+                <staffDef>
+                </staffDef>
+              </staffGrp>
+            </scoreDef>
+          </score>
+        </mdiv>
+      </body>
+    </music>
 </mei>
