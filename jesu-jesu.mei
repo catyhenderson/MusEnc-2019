@@ -35,6 +35,20 @@
                     n="2"/>
               </staffGrp>
             </scoreDef>
+            <section>
+<measure n="1"> <!-- Referring to n=1, which is our first treble clef -->
+<staff n="1">
+  <layer n="1">
+    <!-- 4 equals a quarter note (quaver), 8 equals eighth note or quaver) -->
+    <note pname="g" oct="4" dur="4" dots="1" stem.dir="up"/>
+    <note pname="c" oct="4" dur="8" stem.dir="up"/>
+    <note pname="b" oct="4" accid="n" dur="4" stem.dir="up"/>
+    <note pname="c" oct="4" dur="4" stem.dir="up"/>
+  </layer>
+
+</staff>
+</measure>
+            </section>
           </score>
         </mdiv>
       </body>
