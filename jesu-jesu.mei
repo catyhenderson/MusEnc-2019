@@ -22,9 +22,17 @@
               meter.unit="4"
               key.sig="3f"
               key.mode="minor">
-              <staffGrp>
-                <staffDef>
-                </staffDef>
+              <staffGrp symbol="bracket">
+                <staffDef
+                  lines="5"
+                  clef.shape="G"
+                  clef.line="2"
+                  n="1"/>
+                  <staffDef
+                    lines="5"
+                    clef.shape="F"
+                    clef.line="4"
+                    n="2"/>
               </staffGrp>
             </scoreDef>
           </score>
