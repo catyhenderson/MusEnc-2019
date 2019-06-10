@@ -17,7 +17,11 @@
       <body>
         <mdiv>
           <score>
-            <scoreDef>
+            <scoreDef
+              meter.count="4"
+              meter.unit="4"
+              key.sig="3f"
+              key.mode="minor">
               <staffGrp>
                 <staffDef>
                 </staffDef>
