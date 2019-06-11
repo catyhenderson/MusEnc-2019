@@ -330,24 +330,20 @@
   <layer n="1">
     <note pname="c" oct="4" dur="4" stem.dir="up">
       </note>
-      <beam>
     <note pname="b" accid="n" oct="4" dur="4" stem.dir="up">
       </note>
     <note pname="g" oct="4" dur="4" stem.dir="up">
       </note>
-      </beam>
     <note pname="g" oct="4" dur="4" stem.dir="up">
       </note>
   </layer>
   <layer n="2">
     <note pname="f" oct="4" dur="4" stem.dir="down">
       </note>
-      <beam>
     <note pname="g" oct="4" dur="4" stem.dir="down">
     </note>
     <note pname="c" oct="3" dur="4" stem.dir="down">
     </note>
-    </beam>
     <note pname="c" oct="3" dur="4" stem.dir="down">
       </note>
   </layer>
