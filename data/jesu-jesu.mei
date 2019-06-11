@@ -287,6 +287,7 @@
         </note>
       <note pname="e" oct="5" dur="16" stem.dir="up" slur="t1">
           </note>
+          </beam>
       <note pname="c" oct="5" dur="4" stem.dir="up">
         <verse n="1">
           <syl con="d">wall</syl>
@@ -294,8 +295,7 @@
         <verse n="2">
           <syl con="d">komm</syl>
         </verse>
-        </note>
-        </beam>
+      </note>
       <note pname="c" oct="5" dur="4" stem.dir="up">
         <verse n="1">
           <syl>en.</syl>
