@@ -950,7 +950,7 @@
                             <tie xml:id="tie-0000000673893629" startid="#note-0000001416374339" endid="#note-0000001546447118" />
                             <slur xml:id="slur-0000000620679023" startid="#note-0000001505494198" endid="#note-0000001167219353" />
                             <slur xml:id="slur-0000000213319301" startid="#note-0000001034736334" endid="#note-0000001408681919" curvedir="above" />
-                            <slur xml:id="slur-0000000400398209" startid="#note-0000000236701353" endid="#note-0000001074225873" />
+                            <slur xml:id="slur-0000000400398209" startid="#note-0000000236701353" endid="#note-0000000515533113" />
                         </measure>
           <!-- BAR 21 -->              <measure xml:id="measure-0000001497155832" n="21">
                             <staff xml:id="staff-0000000195398045" n="1">
