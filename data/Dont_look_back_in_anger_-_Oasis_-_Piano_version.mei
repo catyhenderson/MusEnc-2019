@@ -328,7 +328,14 @@
                                 <layer xml:id="layer-0000000509156181" n="1">
                                     <beam xml:id="beam-0000001679470584">
                                         <chord xml:id="chord-0000000621991535"   dur="8" stem.dir="up">
-                                            <note xml:id="note-0000000132397208" oct="4" pname="d" />
+                                            <note xml:id="note-0000000132397208" oct="4" pname="d" >
+                                              <verse n="1">
+                                                <syl>Slip</syl>
+                                              </verse>
+                                              <verse n="2">
+                                                <syl>take</syl>
+                                                </verse>
+                                            </note>
                                             <note xml:id="note-0000000219905906" oct="4" pname="g" />
                                             <note xml:id="note-0000000249651800" oct="4" pname="b" />
                                         </chord>
