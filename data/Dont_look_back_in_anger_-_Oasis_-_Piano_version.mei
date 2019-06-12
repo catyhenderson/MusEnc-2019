@@ -339,11 +339,33 @@
                                             <note xml:id="note-0000000219905906" oct="4" pname="g" />
                                             <note xml:id="note-0000000249651800" oct="4" pname="b" />
                                         </chord>
-                                        <note xml:id="note-0000001101175117"   dur="8" oct="4" pname="a" stem.dir="up" />
+                                        <note xml:id="note-0000001101175117"   dur="8" oct="4" pname="a" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl con="d" wordpos="i">in</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl>me</syl>
+                                            </verse>
+                                          </note>
                                     </beam>
                                     <beam xml:id="beam-0000001421305870">
-                                        <note xml:id="note-0000000617551372" dots="1"   dur="8" oct="4" pname="a" stem.dir="up" />
-                                        <note xml:id="note-0000000300478997"   dur="16" oct="4" pname="g" stem.dir="up" />
+                                        <note xml:id="note-0000000617551372" dots="1"   dur="8" oct="4" pname="a" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl wordpos="t">side</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl>to</syl>
+                                            </verse>
+
+                                          </note>
+                                        <note xml:id="note-0000000300478997"   dur="16" oct="4" pname="g" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>the</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl>the</syl>
+                                            </verse>
+                                            </note>
                                     </beam>
                                     <beam xml:id="beam-0000001370901350">
                                         <chord xml:id="chord-0000001994667905"   dur="8" stem.dir="up">
