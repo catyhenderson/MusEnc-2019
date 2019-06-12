@@ -30,11 +30,33 @@
 
             </pubStmt>
             <notesStmt>
-              <annot>Piano adaptation of rock band song</annot>
+              <annot>All music is interpreted from the original sound recording. Lyrics and chords added from source. Piano adaptation found on MuseScore</annot>
             </notesStmt>
             <sourceDesc>
-              <source>
+              <source xml:id="header.s1">
+                <identifier>1</identifier>
+                <titleStmt><title>Don't Look Back in Anger arranged for Piano</title>
+                <respStmt>
+                  <name>Kanga Dihn</name></respStmt></titleStmt>
+                  <notesStmt><annot>Adapted from audio recording noted here as source 2 and published to MuseScore</annot></notesStmt>
             </source>
+
+            <source xml:id="header.s2">
+              <identifier>2</identifier>
+              <titleStmt><title>Don't Look Back in Anger</title>
+              <respStmt>
+                <name>OAsis</name></respStmt></titleStmt>
+                <pubStmt>
+                  <publisher>Creation Records</publisher>
+                  <pubPlace>UK</pubPlace>
+                  <respStmt><name>Oasis</name></respStmt>
+                </pubStmt>
+                <notesStmt><annot>Original release</annot></notesStmt>
+          </source>
+
+
+
+
           </sourceDesc>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001112976182">
@@ -44,7 +66,27 @@
                     <p xml:id="p-0000000220553393">Transcoded from MusicXML</p>
                 </application>
             </appInfo>
+            <editorialDecl>
+              <interpretation>
+                <p>Version 1.0 includes interpretation of music and sound recording.</p>
+              </interpretation>
+            </editorialDecl>
+            <projectDesc>
+              <p>This project is just an effort to practice MEI coding</p>
+            </projectDesc>
         </encodingDesc>
+        <workDesc>
+          <work>
+            <key>Am</key>
+          </work>
+        </workDesc>
+<revisionDesc>
+<change n="1">
+  <changeDesc><p>Version 1.0</p></changeDesc>
+  </change>
+
+</revisionDesc>
+
     </meiHead>
     <music>
         <body>
