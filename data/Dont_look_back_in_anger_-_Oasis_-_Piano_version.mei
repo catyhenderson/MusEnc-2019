@@ -1,93 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/3.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei">
-    <meiHead>
-        <fileDesc>
-            <titleStmt>
-                <title>Don't Look Back in Anger</title>
-                <title type="subtitle">
-                  <identifier>Arranged for Piano</identifier>
-                  </title>
-                <composer>Oasis</composer>
-                <arranger>Kanga Dinh</arranger>
-                <respStmt>
-                  <resp>Encoded by</resp>
-                  <resp>Cate Henderson</resp>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-              <edition>Version 1.0
-              <date>2019</date>
-              </edition>
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Don't Look Back in Anger</title>
+        <title type="subtitle">
+          <identifier>Arranged for Piano</identifier>
+        </title>
+        <composer>Oasis</composer>
+        <arranger>Kanga Dinh</arranger>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <resp>Cate Henderson</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 1.0
+          <date>2019</date>
+        </edition>
 
-            </editionStmt>
-            <pubStmt>
-              <publisher><corpName>Creation Records</corpName></publisher>
-              <date>1995</date>
-              <availability>
-                <useRestrict>”Creative Commons”>Creative Commons Attribution 4.0 International, CC BY-NC-SA</useRestrict>
-                </availability>
+      </editionStmt>
+      <pubStmt>
+        <publisher>
+          <corpName>Creation Records</corpName>
+        </publisher>
+        <date>1995</date>
+        <availability>
+          <useRestrict>”Creative Commons”>Creative Commons Attribution 4.0 International, CC BY-NC-SA</useRestrict>
+        </availability>
 
-            </pubStmt>
-            <notesStmt>
-              <annot>All music is interpreted from the original sound recording. Lyrics and chords added from source. Piano adaptation found on MuseScore</annot>
-            </notesStmt>
-            <sourceDesc>
-              <source xml:id="header.s1">
-                <identifier>1</identifier>
-                <titleStmt><title>Don't Look Back in Anger arranged for Piano</title>
-                <respStmt>
-                  <name>Kanga Dihn</name></respStmt></titleStmt>
-                  <notesStmt><annot>Adapted from audio recording noted here as source 2 and published to MuseScore</annot></notesStmt>
-            </source>
+      </pubStmt>
+      <notesStmt>
+        <annot>All music is interpreted from the original sound recording. Lyrics and chords added from source. Piano adaptation found on MuseScore</annot>
+      </notesStmt>
+      <sourceDesc>
+        <source xml:id="header.s1">
+          <identifier>1</identifier>
+          <titleStmt>
+            <title>Don't Look Back in Anger arranged for Piano</title>
+            <respStmt>
+              <name>Kanga Dihn</name>
+            </respStmt>
+          </titleStmt>
+          <notesStmt>
+            <annot>Adapted from audio recording noted here as source 2 and published to MuseScore</annot>
+          </notesStmt>
+        </source>
 
-            <source xml:id="header.s2">
-              <identifier>2</identifier>
-              <titleStmt><title>Don't Look Back in Anger</title>
-              <respStmt>
-                <name>OAsis</name></respStmt></titleStmt>
-                <pubStmt>
-                  <publisher>Creation Records</publisher>
-                  <pubPlace>UK</pubPlace>
-                  <respStmt><name>Oasis</name></respStmt>
-                </pubStmt>
-                <notesStmt><annot>Original release</annot></notesStmt>
-          </source>
+        <source xml:id="header.s2">
+          <identifier>2</identifier>
+          <titleStmt>
+            <title>Don't Look Back in Anger</title>
+            <respStmt>
+              <name>OAsis</name>
+            </respStmt>
+          </titleStmt>
+          <pubStmt>
+            <publisher>Creation Records</publisher>
+            <pubPlace>UK</pubPlace>
+            <respStmt>
+              <name>Oasis</name>
+            </respStmt>
+          </pubStmt>
+          <notesStmt>
+            <annot>Original release</annot>
+          </notesStmt>
+        </source>
 
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-0000001112976182">
+      <appInfo xml:id="appinfo-0000001693223661">
+        <application xml:id="application-0000001902432675" isodate="2019-06-12T07:56:55" version="2.2.0-dev-af4e03d">
+          <name xml:id="name-0000000200291107">Verovio</name>
+          <p xml:id="p-0000000220553393">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+      <editorialDecl>
+        <interpretation>
+          <p>Version 1.0 includes interpretation of music and sound recording.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>This project is just an effort to practice MEI coding</p>
+      </projectDesc>
+    </encodingDesc>
+    <workDesc>
+      <work>
+        <key>Am</key>
+      </work>
+    </workDesc>
+    <revisionDesc>
+      <change n="1">
+        <changeDesc>
+          <p>Version 1.0</p>
+        </changeDesc>
+      </change>
 
+    </revisionDesc>
 
-
-          </sourceDesc>
-        </fileDesc>
-        <encodingDesc xml:id="encodingdesc-0000001112976182">
-            <appInfo xml:id="appinfo-0000001693223661">
-                <application xml:id="application-0000001902432675" isodate="2019-06-12T07:56:55" version="2.2.0-dev-af4e03d">
-                    <name xml:id="name-0000000200291107">Verovio</name>
-                    <p xml:id="p-0000000220553393">Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-            <editorialDecl>
-              <interpretation>
-                <p>Version 1.0 includes interpretation of music and sound recording.</p>
-              </interpretation>
-            </editorialDecl>
-            <projectDesc>
-              <p>This project is just an effort to practice MEI coding</p>
-            </projectDesc>
-        </encodingDesc>
-        <workDesc>
-          <work>
-            <key>Am</key>
-          </work>
-        </workDesc>
-<revisionDesc>
-<change n="1">
-  <changeDesc><p>Version 1.0</p></changeDesc>
-  </change>
-
-</revisionDesc>
-
-    </meiHead>
+  </meiHead>
     <music>
         <body>
             <mdiv xml:id="mdiv-0000000569847370">
