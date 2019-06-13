@@ -501,7 +501,7 @@
                                               <verse n="1">
                                                 <syl con="u">find</syl>
                                               </verse>
-                                              <verse n="2"> 
+                                              <verse n="2">
                                                 <syl con="u">knows</syl>
                                                 </verse>
                                                 </note>
@@ -554,16 +554,51 @@
                                     </chord>
                                     <note xml:id="note-0000001577041435" dots="1"   dur="4" oct="4" pname="g" stem.dir="up" />
                                     <beam xml:id="beam-0000000836789793">
-                                        <note xml:id="note-0000001732145182"   dur="8" oct="4" pname="g" stem.dir="up" />
-                                        <note xml:id="note-0000000532347840"   dur="16" oct="4" pname="g" stem.dir="up" />
-                                        <note xml:id="note-0000001238392982"   dur="16" oct="4" pname="e" stem.dir="up" />
+                                        <note xml:id="note-0000001732145182"   dur="8" oct="4" pname="g" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>a</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl> </syl>
+                                            </verse>
+                                            </note>
+                                        <note xml:id="note-0000000532347840"   dur="16" oct="4" pname="g" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl con="d" wordpos="i">bet</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl>if</syl>
+                                            </verse>
+                                            </note>
+                                        <note xml:id="note-0000001238392982"   dur="16" oct="4" pname="e" stem.dir="up">
+                                          <verse n="1">
+                                            <syl wordpos="t">ter</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl>it's</syl>
+                                            </verse>
+                                            </note>
                                     </beam>
                                     <beam xml:id="beam-0000000795310319">
                                         <chord xml:id="chord-0000001064534468"   dur="8" stem.dir="up">
-                                            <note xml:id="note-0000000550373650" oct="4" pname="d" />
+                                            <note xml:id="note-0000000550373650" oct="4" pname="d">
+                                              <verse n="1">
+                                                <syl>place</syl>
+                                              </verse>
+                                              <verse n="2">
+                                                <syl >night</syl>
+                                                </verse>
+                                                </note>
                                             <note xml:id="note-0000001391559774" oct="4" pname="g" />
                                         </chord>
-                                        <note xml:id="note-0000000701782676"   dur="8" oct="4" pname="e" stem.dir="up" />
+                                        <note xml:id="note-0000000701782676"   dur="8" oct="4" pname="e" stem.dir="up">
+                                          <verse n="1">
+                                            <syl>to</syl>
+                                          </verse>
+                                          <verse n="2">
+                                            <syl con="u">or</syl>
+                                            </verse>
+                                            </note>
                                     </beam>
                                 </layer>
                             </staff>
