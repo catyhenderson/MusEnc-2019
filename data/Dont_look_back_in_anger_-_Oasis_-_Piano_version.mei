@@ -36,6 +36,9 @@
             <respStmt>
               <resp>Arranged by</resp>
               <persName role="arranger">Kanga Dihn</persName>
+
+                <corpName role="publisher">MuseScore</corpName>
+
             </respStmt>
           </titleStmt>
         </source>
