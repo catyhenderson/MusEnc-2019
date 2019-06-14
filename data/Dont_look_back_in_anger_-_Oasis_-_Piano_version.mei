@@ -2488,7 +2488,7 @@
                             <pedal xml:id="pedal-0000002044910135" staff="1" startid="#note-0000000357405109" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000000548018187" />
-                        <measure xml:id="measure-0000000087518145" n="34">
+                        <measure xml:id="measure-0000000087518145" n="34" right="rptend">
                             <staff xml:id="staff-0000001433720173" n="1">
                                 <layer xml:id="layer-0000000228608188" n="1">
                                     <note xml:id="note-0000000357405109"   dur="2" oct="4" pname="g" stem.dir="up" />
