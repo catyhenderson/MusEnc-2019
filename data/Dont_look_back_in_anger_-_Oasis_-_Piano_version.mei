@@ -143,10 +143,8 @@
                                 </layer>
                             </staff>
                             <tempo xml:id="tempo-0000001404294074" place="above" staff="1" startid="#chord-0000001755753330" mm="76" mm.unit="4">M.M. = 76</tempo>
-                            <pedal xml:id="pedal-0000001475887070" staff="1" startid="#chord-0000001755753330" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000077762459" staff="2" startid="#chord-0000002066420762" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002087943555" staff="2" startid="#chord-0000002066420762" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001729708573" staff="1" startid="#chord-0000001464400902" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000562683707" n="2">
                             <staff xml:id="staff-0000000694487973" n="1">
@@ -189,10 +187,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002123880027" staff="1" startid="#chord-0000001464400902" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001348934855" staff="2" startid="#chord-0000000334561844" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002066006126" staff="2" startid="#chord-0000000334561844" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001042294664" staff="1" startid="#chord-0000001995898003" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002110620395" n="3">
                             <staff xml:id="staff-0000001974564716" n="1">
@@ -231,10 +227,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001811763260" staff="1" startid="#chord-0000001995898003" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000774254303" staff="2" startid="#chord-0000001567838883" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000801445870" staff="2" startid="#chord-0000001567838883" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000158817600" staff="1" startid="#chord-0000001019734404" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002039980979" n="4">
                             <staff xml:id="staff-0000002132418228" n="1">
