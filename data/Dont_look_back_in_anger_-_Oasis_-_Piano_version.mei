@@ -48,7 +48,9 @@
             </respStmt>
           </titleStmt>
           <pubStmt>
-            <publisher>Creation Records</publisher>
+            <respStmt>
+              <corpName role="publisher">Creation Records</corpName>
+            </respStmt>
             <pubPlace>UK</pubPlace>
             <date>1995</date>
           </pubStmt>
