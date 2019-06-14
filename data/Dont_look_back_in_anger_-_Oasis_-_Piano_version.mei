@@ -649,7 +649,14 @@
                                         </verse>
                                         </note>
                                     <note xml:id="note-0000001073435817" dots="1"   dur="4" oct="4" pname="d" stem.dir="up" />
-                                    <note xml:id="note-0000000098656308"   dur="4" oct="4" pname="e" stem.dir="up" />
+                                    <note xml:id="note-0000000098656308"   dur="4" oct="4" pname="e" stem.dir="up" >
+                                      <verse n="1">
+                                        <syl> </syl>
+                                      </verse>
+                                      <verse n="2">
+                                        <syl> </syl>
+                                        </verse>
+                                        </note>
                                     <chord xml:id="chord-0000000104496401"   dur="4" stem.dir="up">
                                         <note xml:id="note-0000000642920071" oct="3" pname="a" />
                                         <note xml:id="note-0000001049578911" oct="4" pname="d" />
@@ -1020,10 +1027,10 @@
                                     <chord xml:id="chord-0000000769784577"   dur="2" stem.dir="up">
                                         <note xml:id="note-0000000572335106" oct="4" pname="d" >
                                           <verse n="1">
-                                            <syl con="u" wordpos="t">way</syl>
+                                            <syl con="u">way</syl>
                                           </verse>
                                           <verse n="2">
-                                            <syl con="u" wordpos="t">way</syl>
+                                            <syl con="u">way</syl>
                                             </verse>
                                             </note>
                                         <note xml:id="note-0000000923996092" oct="4" pname="g" />
@@ -1188,15 +1195,11 @@
                                         <note xml:id="note-0000000980110724" oct="4" pname="d" />
                                     </chord>
                                     <beam xml:id="beam-0000001025134915">
-                                        <note xml:id="note-0000002036170227"   dur="8" oct="3" pname="b" stem.dir="up" >
-                                          <verse n="1">
-                                            <syl>'Cause'</syl>
-                                          </verse>
-                                            </note>
+                                        <note xml:id="note-0000002036170227"   dur="8" oct="3" pname="b" stem.dir="up" />
                                         <chord xml:id="chord-0000001562274159"   dur="16" stem.dir="up">
                                             <note xml:id="note-0000000070119228" oct="3" pname="b" >
                                               <verse n="1">
-                                                <syl>you</syl>
+                                                <syl>'Cause'</syl>
                                               </verse>
                                                 </note>
                                             <note xml:id="note-0000001678284114" oct="4" pname="d" />
@@ -1204,7 +1207,7 @@
                                         <chord xml:id="chord-0000001778116784"   dur="16" stem.dir="up">
                                             <note xml:id="note-0000001168260499" oct="3" pname="b" >
                                               <verse n="1">
-                                                <syl>said</syl>
+                                                <syl>you</syl>
                                               </verse>
                                                 </note>
                                             <note xml:id="note-0000001080141034" oct="4" pname="d" />
@@ -1241,20 +1244,52 @@
                                 <layer xml:id="layer-0000001939306476" n="1">
                                     <beam xml:id="beam-0000001159591572">
                                         <chord xml:id="chord-0000000977516296"   dur="8" stem.dir="up">
-                                            <note xml:id="note-0000001706207281" oct="4" pname="c" />
+                                            <note xml:id="note-0000001706207281" oct="4" pname="c" >
+                                              <verse n="1">
+                                                <syl>said</syl>
+                                              </verse>
+                                                </note>
                                             <note xml:id="note-0000000062007377" oct="4" pname="a" />
                                         </chord>
-                                        <note xml:id="note-0000001013080636"   dur="16" oct="4" pname="g" stem.dir="up" />
-                                        <note xml:id="note-0000001907277231"   dur="8" oct="4" pname="a" stem.dir="up" />
-                                        <note xml:id="note-0000000637559601"   dur="8" oct="4" pname="g" stem.dir="up" />
+                                        <note xml:id="note-0000001013080636"   dur="16" oct="4" pname="g" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>the</syl>
+                                          </verse>
+                                            </note>
+                                        <note xml:id="note-0000001907277231"   dur="8" oct="4" pname="a" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>brains</syl>
+                                          </verse>
+                                            </note>
+                                        <note xml:id="note-0000000637559601"   dur="8" oct="4" pname="g" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>I</syl>
+                                          </verse>
+                                            </note>
                                         <chord xml:id="chord-0000001780359017"   dur="8" stem.dir="up">
-                                            <note xml:id="note-0000000319115552" oct="4" pname="d" />
+                                            <note xml:id="note-0000000319115552" oct="4" pname="d" >
+                                              <verse n="1">
+                                                <syl>had</syl>
+                                              </verse>
+                                                </note>
                                             <note xml:id="note-0000000751918810" oct="4" pname="a" />
                                         </chord>
-                                        <note xml:id="note-0000000609819184"   dur="8" oct="4" pname="g" stem.dir="up" />
-                                        <note xml:id="note-0000000887959301"   dur="16" oct="4" pname="a" stem.dir="up" />
+                                        <note xml:id="note-0000000609819184"   dur="8" oct="4" pname="g" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>went</syl>
+                                          </verse>
+                                            </note>
+                                        <note xml:id="note-0000000887959301"   dur="16" oct="4" pname="a" stem.dir="up" >
+                                          <verse n="1">
+                                            <syl>to</syl>
+                                          </verse>
+                                            </note>
                                     </beam>
-                                    <note xml:id="note-0000001477108657"   dur="4" oct="4" pname="g" stem.dir="up" />
+                                    <note xml:id="note-0000001477108657"   dur="4" oct="4" pname="g" stem.dir="up" >
+                                      <verse n="1">
+                                        <syl>my</syl>
+                                      </verse>
+                                        </note>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000000537062213" n="2">
@@ -1293,7 +1328,11 @@
                             <staff xml:id="staff-0000000504460999" n="1">
                                 <layer xml:id="layer-0000001734198435" n="1">
                                     <chord xml:id="chord-0000000666893310" dots="1"   dur="2" stem.dir="up">
-                                        <note xml:id="note-0000001103459757" oct="3" pname="b" />
+                                        <note xml:id="note-0000001103459757" oct="3" pname="b" >
+                                          <verse n="1">
+                                            <syl con="u">head</syl>
+                                          </verse>
+                                            </note>
                                         <note xml:id="note-0000001020666541" oct="4" pname="d" />
                                     </chord>
                                     <beam xml:id="beam-0000000649793193">
