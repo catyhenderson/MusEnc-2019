@@ -7,9 +7,7 @@
         <title xml:id="title12345">Don't Look Back in Anger</title>
         <title type="subordinate">Arranged for Piano</title>
         <respStmt>
-          <resp>Composed by</resp>
           <corpName role="composer">Oasis</corpName>
-          <resp>Arranged by</resp>
           <persName role="arranger">Kanga Dinh</persName>
           <persName role="encoder">Cate</persName>
         </respStmt>
@@ -32,10 +30,8 @@
           <titleStmt>
             <title>Don't Look Back in Anger arranged for Piano</title>
             <respStmt>
-              <resp>Arranged by</resp>
               <persName role="arranger">Kanga Dihn</persName>
-          <resp>Published by</resp>
-                <corpName role="publisher">MuseScore</corpName>
+              <corpName role="publisher">MuseScore</corpName>
 
             </respStmt>
           </titleStmt>
@@ -46,7 +42,7 @@
           <titleStmt>
             <title>Don't Look Back in Anger</title>
             <respStmt>
-              <resp>Composed by</resp>
+              <resp>composed by</resp>
               <corpName role="composer">Oasis</corpName>
             </respStmt>
           </titleStmt>

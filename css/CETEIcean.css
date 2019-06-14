@@ -1827,7 +1827,13 @@ mei-filedesc > mei-titlestmt > mei-respstmt {
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-corpName[role="composer"]::before {
   font-weight: bold;
-  content: '\a'"Composer: ";
+  content: '\a'"Composed by: ";
+  white-space: pre;
+}
+
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="arranger"]::before {
+  font-weight: bold;
+  content: '\a'"Arranged by: ";
   white-space: pre;
 }
 
@@ -1891,33 +1897,17 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt {
   display: block;
 }
 
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uniform"]::before {
-  content: "(";
-}
-
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uniform"] {
-  font-style: italic;
-}
-
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uniform"]::after {
-  content: ")";
-}
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="composer"] {
   display: none;
 }
 
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="dedicatee"]::before {
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="arranger"]::before {
   font-weight: bold;
-  content: '\a'"Dedicated to: ";
+  content: '\a'"Arranged by: ";
   white-space: pre;
 }
 
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="editor"]::before {
-  font-weight: bold;
-  content: '\a'"Edited by: ";
-  white-space: pre;
-}
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-physdesc {
   display: none;
