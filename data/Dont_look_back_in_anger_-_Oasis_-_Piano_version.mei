@@ -31,10 +31,13 @@
             <title>Don't Look Back in Anger arranged for Piano</title>
             <respStmt>
               <persName role="arranger">Kanga Dihn</persName>
+              </respStmt>
+              </titleStmt>
+              <pubStmt>
+                <respStmt>
               <corpName role="publisher">MuseScore</corpName>
-
             </respStmt>
-          </titleStmt>
+            </pubStmt>
         </source>
 
         <source xml:id="header.s2">
@@ -42,7 +45,6 @@
           <titleStmt>
             <title>Don't Look Back in Anger</title>
             <respStmt>
-              <resp>composed by</resp>
               <corpName role="composer">Oasis</corpName>
             </respStmt>
           </titleStmt>
