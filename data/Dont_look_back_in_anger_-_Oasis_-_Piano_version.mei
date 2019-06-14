@@ -291,7 +291,6 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000652595797" staff="1" startid="#chord-0000001019734404" dir="down" place="below" />
                             <tie xml:id="tie-0000000361713505" startid="#note-0000001503044948" endid="#note-0000000153057773" />
                             <tie xml:id="tie-0000002075208371" startid="#note-0000001696429241" endid="#note-0000001648984057" />
                             <tie xml:id="tie-0000001201295978" startid="#note-0000000043574799" endid="#note-0000000029286007" />
@@ -302,7 +301,6 @@
                             <pedal xml:id="pedal-0000000057803174" staff="2" startid="#chord-0000000240738805" dir="down" place="below" />
                             <tie xml:id="tie-0000000767812526" startid="#note-0000001294829184" endid="#note-0000000927565559" />
                             <tie xml:id="tie-0000001079292198" startid="#note-0000000923423388" endid="#note-0000001395467726" />
-                            <pedal xml:id="pedal-0000000026352849" staff="1" startid="#chord-0000000621991535" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001379354904" />
                         <measure xml:id="measure-0000000909512189" left="rptstart" n="5">
@@ -420,11 +418,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001583087575" staff="1" startid="#chord-0000000621991535" dir="down" place="below" />
                             <tie xml:id="tie-0000000295327409" startid="#note-0000000138295519" endid="#note-0000001239378281" />
                             <pedal xml:id="pedal-0000000497195570" staff="2" startid="#chord-0000001247780086" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000555075784" staff="2" startid="#chord-0000001247780086" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001535646648" staff="1" startid="#note-0000001239378281" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001921803099" n="6">
                             <staff xml:id="staff-0000000117304634" n="1">
@@ -520,12 +516,10 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000720462336" staff="1" startid="#note-0000001239378281" dir="down" place="below" />
                             <tie xml:id="tie-0000001098937359" startid="#note-0000000670142018" endid="#note-0000001371286551" />
                             <tie xml:id="tie-0000000963937726" startid="#note-0000000929357416" endid="#note-0000001724569913" />
                             <pedal xml:id="pedal-0000000679513938" staff="2" startid="#chord-0000002085814975" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001359383332" staff="2" startid="#chord-0000002085814975" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002136658646" staff="1" startid="#chord-0000001689633123" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000332041544" n="7">
                             <staff xml:id="staff-0000000751276538" n="1">
@@ -613,11 +607,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001309068146" staff="1" startid="#chord-0000001689633123" dir="down" place="below" />
                             <tie xml:id="tie-0000000796943620" startid="#note-0000001577041435" endid="#note-0000001732145182" />
                             <pedal xml:id="pedal-0000000290005069" staff="2" startid="#chord-0000000493481008" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002085355099" staff="2" startid="#chord-0000000493481008" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001441151719" staff="1" startid="#note-0000001856702512" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000798992990" n="8">
                             <staff xml:id="staff-0000001119979939" n="1">
@@ -673,10 +665,8 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001693946006" staff="1" startid="#note-0000001856702512" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001781001041" staff="2" startid="#chord-0000001686712709" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000623967747" staff="2" startid="#chord-0000001686712709" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000541426829" staff="1" startid="#chord-0000000736402244" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001359234989" n="9">
                             <staff xml:id="staff-0000000962152156" n="1">
@@ -792,12 +782,10 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001136922905" staff="1" startid="#chord-0000000736402244" dir="down" place="below" />
                             <tie xml:id="tie-0000000213162657" startid="#note-0000001235094106" endid="#note-0000001340873471" />
                             <tie xml:id="tie-0000001857318730" startid="#note-0000001572379907" endid="#note-0000000755408909" />
                             <pedal xml:id="pedal-0000000786508456" staff="2" startid="#chord-0000000091337777" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001344190608" staff="2" startid="#chord-0000000091337777" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001150145880" staff="1" startid="#note-0000000755408909" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000000530683531" />
                         <measure xml:id="measure-0000001413443646" n="10">
@@ -902,12 +890,10 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001503272920" staff="1" startid="#note-0000000755408909" dir="down" place="below" />
                             <tie xml:id="tie-0000000017766026" startid="#note-0000000852646767" endid="#note-0000001157758756" />
                             <tie xml:id="tie-0000001279990605" startid="#note-0000000768634254" endid="#note-0000001396007393" />
                             <pedal xml:id="pedal-0000000408487848" staff="2" startid="#chord-0000000312567151" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000369007279" staff="2" startid="#chord-0000000312567151" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000131261013" staff="1" startid="#chord-0000000380731668" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000018163962" n="11">
                             <staff xml:id="staff-0000001413292123" n="1">
@@ -997,11 +983,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001954574133" staff="1" startid="#chord-0000000380731668" dir="down" place="below" />
                             <tie xml:id="tie-0000000776966853" startid="#note-0000001529793120" endid="#note-0000000487293312" />
                             <pedal xml:id="pedal-0000001100851597" staff="2" startid="#chord-0000001391560148" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001257166597" staff="2" startid="#chord-0000001391560148" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001746607289" staff="1" startid="#chord-0000000769784577" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000754583031" n="12">
                             <staff xml:id="staff-0000000589949773" n="1">
@@ -1059,10 +1043,8 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000756556990" staff="1" startid="#chord-0000000769784577" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001914795882" staff="2" startid="#chord-0000000502255024" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002104507019" staff="2" startid="#chord-0000000502255024" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001591236374" staff="1" startid="#rest-0000000045323625" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000813764005" n="13">
                             <staff xml:id="staff-0000001736285020" n="1">
@@ -1160,10 +1142,8 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002112813336" staff="1" startid="#rest-0000000045323625" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000401483880" staff="2" startid="#chord-0000001592125148" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001986839591" staff="2" startid="#chord-0000001592125148" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000144360469" staff="1" startid="#chord-0000000022023688" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001987772319" n="14">
                             <staff xml:id="staff-0000000555100508" n="1">
@@ -1215,10 +1195,8 @@
                                     <rest xml:id="rest-0000000961742606"   dur="4" />
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000128737433" staff="1" startid="#chord-0000000022023688" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001951419208" staff="2" startid="#chord-0000001265399691" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000854601458" staff="2" startid="#chord-0000001265399691" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000126478091" staff="1" startid="#chord-0000000977516296" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000000768268465" />
                         <measure xml:id="measure-0000002028181089" n="15">
@@ -1301,10 +1279,8 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001746313735" staff="1" startid="#chord-0000000977516296" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000394338215" staff="2" startid="#chord-0000000302586171" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000590455274" staff="2" startid="#chord-0000000302586171" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000240392617" staff="1" startid="#chord-0000000666893310" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000185439131" n="16">
                             <staff xml:id="staff-0000000504460999" n="1">
@@ -1345,10 +1321,8 @@
                                     <rest xml:id="rest-0000000261842193"   dur="4" />
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001851494574" staff="1" startid="#chord-0000000666893310" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001961299654" staff="2" startid="#chord-0000001445429961" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000218394753" staff="2" startid="#chord-0000001445429961" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001167770341" staff="1" startid="#chord-0000000019356337" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000909439379" n="17">
                             <staff xml:id="staff-0000000592767296" n="1">
@@ -1438,10 +1412,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002119521490" staff="1" startid="#chord-0000000019356337" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001284869635" staff="2" startid="#chord-0000000211810732" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000602239720" staff="2" startid="#chord-0000000211810732" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000755560906" staff="1" startid="#chord-0000002066459928" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000893954846" n="18">
                             <staff xml:id="staff-0000000249677389" n="1">
@@ -1482,10 +1454,8 @@
                                     <rest xml:id="rest-0000000989652997"   dur="4" />
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000221375151" staff="1" startid="#chord-0000002066459928" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000560198048" staff="2" startid="#chord-0000000668402069" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001296492004" staff="2" startid="#chord-0000000668402069" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001264548400" staff="1" startid="#chord-0000000547889545" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000145136414" n="19">
                             <staff xml:id="staff-0000000175844137" n="1">
@@ -1572,10 +1542,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000925789335" staff="1" startid="#chord-0000000547889545" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000340356165" staff="2" startid="#chord-0000001100940978" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000487748972" staff="2" startid="#chord-0000001100940978" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002112650488" staff="1" startid="#chord-0000001451394718" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001886425920" />
                         <measure xml:id="measure-0000000611425317" n="20">
@@ -1668,12 +1636,10 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000581900462" staff="1" startid="#chord-0000001451394718" dir="down" place="below" />
                             <tie xml:id="tie-0000000790021608" startid="#note-0000002052957163" endid="#note-0000001963760809" />
                             <tie xml:id="tie-0000000821544362" startid="#note-0000001348726789" endid="#note-0000000925248048" />
                             <pedal xml:id="pedal-0000000182462137" staff="2" startid="#chord-0000000586636959" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002140813832" staff="2" startid="#chord-0000000586636959" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000032561266" staff="1" startid="#chord-0000000386159644" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002090394012" n="21">
                             <staff xml:id="staff-0000001654479318" n="1">
@@ -1760,11 +1726,9 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002080485360" staff="1" startid="#chord-0000000386159644" dir="down" place="below" />
                             <tie xml:id="tie-0000001332531112" startid="#note-0000001482973255" endid="#note-0000000872117272" />
                             <pedal xml:id="pedal-0000001624555777" staff="2" startid="#chord-0000001694754634" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000764857113" staff="2" startid="#chord-0000001694754634" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001809656156" staff="1" startid="#chord-0000000362365919" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001973460594" n="22">
                             <staff xml:id="staff-0000001344633090" n="1">
@@ -1832,10 +1796,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000126313282" staff="1" startid="#chord-0000000362365919" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000657692817" staff="2" startid="#chord-0000001751031921" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001312290536" staff="2" startid="#chord-0000001751031921" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001865530951" staff="1" startid="#note-0000001197711232" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001384399689" n="23">
                             <staff xml:id="staff-0000000005452349" n="1">
@@ -1883,10 +1845,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001736324303" staff="1" startid="#note-0000001197711232" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000749392628" staff="2" startid="#chord-0000001182579507" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000265841939" staff="2" startid="#chord-0000001182579507" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002079599790" staff="1" startid="#chord-0000001628032564" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001937645177" />
                         <measure xml:id="measure-0000001662888806" n="24">
@@ -1945,11 +1905,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000304720503" staff="1" startid="#chord-0000001628032564" dir="down" place="below" />
                             <tie xml:id="tie-0000000679745523" startid="#note-0000001779229725" endid="#note-0000002030356152" />
                             <pedal xml:id="pedal-0000000085381808" staff="2" startid="#note-0000001232680401" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001423601232" staff="2" startid="#note-0000001232680401" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001408863564" staff="1" startid="#chord-0000000771094743" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000749941134" n="25">
                             <staff xml:id="staff-0000001587198705" n="1">
@@ -2010,12 +1968,10 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001208105620" staff="1" startid="#chord-0000000771094743" dir="down" place="below" />
                             <tie xml:id="tie-0000001602126307" startid="#note-0000000334799311" endid="#note-0000000006178253" />
                             <tie xml:id="tie-0000001189781892" startid="#note-0000000211963806" endid="#note-0000001082205156" />
                             <pedal xml:id="pedal-0000001186299605" staff="2" startid="#note-0000001954276663" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002078601812" staff="2" startid="#note-0000001954276663" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000289456632" staff="1" startid="#chord-0000001021826729" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001868128679" n="26">
                             <staff xml:id="staff-0000002107904916" n="1">
@@ -2081,12 +2037,10 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001236018216" staff="1" startid="#chord-0000001021826729" dir="down" place="below" />
                             <tie xml:id="tie-0000000869223066" startid="#note-0000001486675070" endid="#note-0000001991556883" />
                             <tie xml:id="tie-0000001823890948" startid="#note-0000001446206533" endid="#note-0000001082072331" />
                             <pedal xml:id="pedal-0000001802132046" staff="2" startid="#note-0000000742027775" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000641966814" staff="2" startid="#note-0000000742027775" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001689335534" staff="1" startid="#chord-0000001315454408" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000792331798" n="27">
                             <staff xml:id="staff-0000001748819326" n="1">
@@ -2116,10 +2070,8 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000953304692" staff="1" startid="#chord-0000001315454408" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001560490089" staff="2" startid="#note-0000000901614744" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000065759359" staff="2" startid="#note-0000000901614744" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001414475641" staff="1" startid="#chord-0000000128497476" dir="up" place="below" />
                         </measure>
                         </section>
                         <ending n="1">
@@ -2180,12 +2132,10 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001084736959" staff="1" startid="#chord-0000000128497476" dir="down" place="below" />
                             <tie xml:id="tie-0000001395821295" startid="#note-0000000844314376" endid="#note-0000000013527347" />
                             <tie xml:id="tie-0000000429809820" startid="#note-0000001589848874" endid="#note-0000000319355603" />
                             <pedal xml:id="pedal-0000001776206698" staff="2" startid="#note-0000001758402880" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000642890884" staff="2" startid="#note-0000001758402880" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001391087594" staff="1" startid="#chord-0000000244618990" dir="up" place="below" />
                         </measure>
                         <pb xml:id="pb-0000001498061277" />
                         <measure xml:id="measure-0000001124675923" n="29">
@@ -2242,13 +2192,11 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001147393444" staff="1" startid="#chord-0000000244618990" dir="down" place="below" />
                             <tie xml:id="tie-0000000729942477" startid="#note-0000000319355603" endid="#note-0000002097493749" />
                             <tie xml:id="tie-0000001378327495" startid="#note-0000001953780675" endid="#note-0000000944501129" />
                             <tie xml:id="tie-0000000241537376" startid="#note-0000001002576543" endid="#note-0000000068163834" />
                             <pedal xml:id="pedal-0000001489139382" staff="2" startid="#note-0000000790733953" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000665082388" staff="2" startid="#note-0000000790733953" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001647441236" staff="1" startid="#chord-0000000510530717" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000974414598" n="30">
                             <staff xml:id="staff-0000000110584755" n="1">
@@ -2327,13 +2275,11 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002079492833" staff="1" startid="#chord-0000000510530717" dir="down" place="below" />
                             <tie xml:id="tie-0000001237583753" startid="#note-0000001658297659" endid="#note-0000001747585590" />
                             <tie xml:id="tie-0000000279357243" startid="#note-0000000118850465" endid="#note-0000001146628567" />
                             <tie xml:id="tie-0000001705965273" startid="#note-0000000396167676" endid="#note-0000001804598254" />
                             <pedal xml:id="pedal-0000001516029665" staff="2" startid="#note-0000001219786327" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001461744688" staff="2" startid="#note-0000001219786327" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001417897381" staff="1" startid="#chord-0000000168485153" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000083650242" n="31">
                             <staff xml:id="staff-0000000813217774" n="1">
@@ -2369,10 +2315,8 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000324249240" staff="1" startid="#chord-0000000168485153" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000648795427" staff="2" startid="#chord-0000000318770905" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000382356784" staff="2" startid="#chord-0000000318770905" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001549227355" staff="1" startid="#chord-0000001676299048" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000596000380" n="32">
                             <staff xml:id="staff-0000000178506879" n="1">
@@ -2418,10 +2362,8 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001191557183" staff="1" startid="#chord-0000001676299048" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000881847981" staff="2" startid="#chord-0000000584907891" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002100456683" staff="2" startid="#chord-0000000584907891" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000748965538" staff="1" startid="#chord-0000000079511638" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001458531740" n="33">
                             <staff xml:id="staff-0000001130428695" n="1">
@@ -2465,11 +2407,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000017359822" staff="1" startid="#chord-0000000079511638" dir="down" place="below" />
                             <tie xml:id="tie-0000000670651683" startid="#note-0000000148137250" endid="#note-0000000357405109" />
                             <pedal xml:id="pedal-0000002134676273" staff="2" startid="#chord-0000000484269773" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001246181399" staff="2" startid="#chord-0000000484269773" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002044910135" staff="1" startid="#note-0000000357405109" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000000548018187" />
                         <measure xml:id="measure-0000000087518145" n="34" right="rptend">
@@ -2509,16 +2449,14 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000556652838" staff="1" startid="#note-0000000357405109" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001372140787" staff="2" startid="#chord-0000001310701357" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000778111416" staff="2" startid="#chord-0000001310701357" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001760109266" staff="1" startid="#chord-0000000073121804" dir="up" place="below" />
                         </measure>
                       </ending>
 
 <!-- ADD A REPEAT AT THE END OF MEASURE 34 AND DELETE MEASURE 35 TO 57 ???? DONE
 
-Add time one to measures 28 - 34. Second time go to meaure "58"
+Add time one to measures 28 - 34. Second time go to meaure "58" DONE
 -->
 
 
@@ -2582,12 +2520,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58"
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001710704379" staff="1" startid="#chord-0000001132272554" dir="down" place="below" />
                             <tie xml:id="tie-0000001366303734" startid="#note-0000001342017611" endid="#note-0000001301864213" />
                             <tie xml:id="tie-0000001392539644" startid="#note-0000001939121884" endid="#note-0000001994201829" />
                             <pedal xml:id="pedal-0000002081352876" staff="2" startid="#note-0000001331018648" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001475513884" staff="2" startid="#note-0000001331018648" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001882713798" staff="1" startid="#chord-0000001228554723" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000447044685" n="59">
                             <staff xml:id="staff-0000000841442140" n="1">
