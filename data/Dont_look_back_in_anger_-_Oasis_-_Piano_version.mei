@@ -34,6 +34,7 @@
           <titleStmt>
             <title>Don't Look Back in Anger arranged for Piano</title>
             <respStmt>
+              <resp>Arranged by</resp>
               <persName role="arranger">Kanga Dihn</persName>
             </respStmt>
           </titleStmt>
@@ -44,6 +45,7 @@
           <titleStmt>
             <title>Don't Look Back in Anger</title>
             <respStmt>
+              <resp>Composed by</resp>
               <corpName role="composer">Oasis</corpName>
             </respStmt>
           </titleStmt>
