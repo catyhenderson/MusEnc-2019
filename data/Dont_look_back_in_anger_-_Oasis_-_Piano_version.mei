@@ -9,6 +9,7 @@
         <respStmt>
           <corpName role="composer">Oasis</corpName>
           <persName role="arranger">Kanga Dinh</persName>
+          <persName role="editor">Cate Henderson</persName>
           <persName role="encoder">Cate</persName>
         </respStmt>
       </titleStmt>
@@ -53,7 +54,6 @@
               <corpName role="publisher">Creation Records</corpName>
             </respStmt>
             <pubPlace>UK</pubPlace>
-            <date>1995</date>
           </pubStmt>
         </source>
       </sourceDesc>

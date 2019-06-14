@@ -1837,6 +1837,12 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="arranger"]::befo
   white-space: pre;
 }
 
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="editor"]::before {
+  font-weight: bold;
+  content: '\a'"Edited by: ";
+  white-space: pre;
+}
+
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
   font-weight: bold;
   content: '\a'"Encoded by: ";
@@ -1898,7 +1904,7 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt {
 }
 
 
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::before {
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-corpname[role="composer"]::before {
   font-weight: bold;
   content: '\a'"Composed by: ";
   white-space: pre;
