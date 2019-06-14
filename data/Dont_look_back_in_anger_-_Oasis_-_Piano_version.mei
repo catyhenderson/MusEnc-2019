@@ -102,7 +102,7 @@
                             </staffGrp>
                         </staffGrp>
                     </scoreDef>
-                    <section xml:id="section-0000001878314539">
+                    <section xml:id="section-0000001878314539" n="1">
                         <pb xml:id="pb-0000001055331118" />
                         <measure xml:id="measure-0000001639716485" n="1">
                             <staff xml:id="staff-0000001015964511" n="1">
@@ -2126,6 +2126,8 @@
                             <pedal xml:id="pedal-0000000065759359" staff="2" startid="#note-0000000901614744" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001414475641" staff="1" startid="#chord-0000000128497476" dir="up" place="below" />
                         </measure>
+                        </section>
+                        <ending n="1">
                         <measure xml:id="measure-0000000019833267" n="28">
                             <staff xml:id="staff-0000000900271530" n="1">
                                 <layer xml:id="layer-0000001500269835" n="1">
@@ -2517,6 +2519,7 @@
                             <pedal xml:id="pedal-0000000778111416" staff="2" startid="#chord-0000001310701357" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001760109266" staff="1" startid="#chord-0000000073121804" dir="up" place="below" />
                         </measure>
+                      </ending>
 
 <!-- ADD A REPEAT AT THE END OF MEASURE 34 AND DELETE MEASURE 35 TO 57 ???? DONE
 
@@ -2526,6 +2529,7 @@ Add time one to measures 28 - 34. Second time go to meaure "58"
 
 
 
+                      <ending n="2">
                         <measure xml:id="measure-0000000366686636" n="58">
                             <staff xml:id="staff-0000001551916920" n="1">
                                 <layer xml:id="layer-0000001313338361" n="1">
@@ -2766,6 +2770,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58"
                             <pedal xml:id="pedal-0000001871248896" staff="2" startid="#chord-0000000433039012" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001833682240" staff="1" startid="#chord-0000001650282624" dir="up" place="below" />
                         </measure>
+                      </ending>
+                      <section n="2">
                         <measure xml:id="measure-0000001832109530" n="62">
                             <staff xml:id="staff-0000001458634374" n="1">
                                 <layer xml:id="layer-0000000015321992" n="1">
