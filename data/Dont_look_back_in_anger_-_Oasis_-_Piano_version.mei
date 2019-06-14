@@ -2579,13 +2579,11 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000072998615" staff="1" startid="#chord-0000001228554723" dir="down" place="below" />
                             <tie xml:id="tie-0000000303123733" startid="#note-0000001994201829" endid="#note-0000001281630914" />
                             <tie xml:id="tie-0000000309037593" startid="#note-0000000782364973" endid="#note-0000000302509587" />
                             <tie xml:id="tie-0000001852274109" startid="#note-0000001900650153" endid="#note-0000001941614335" />
                             <pedal xml:id="pedal-0000001169672959" staff="2" startid="#note-0000001679005903" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000727829842" staff="2" startid="#note-0000001679005903" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002141484367" staff="1" startid="#chord-0000000075632583" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002075060154" n="60">
                             <staff xml:id="staff-0000000744475428" n="1">
@@ -2664,13 +2662,11 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000813408857" staff="1" startid="#chord-0000000075632583" dir="down" place="below" />
                             <tie xml:id="tie-0000001773245305" startid="#note-0000000780805226" endid="#note-0000001619103557" />
                             <tie xml:id="tie-0000001898012100" startid="#note-0000000592581526" endid="#note-0000001204468857" />
                             <tie xml:id="tie-0000000515745416" startid="#note-0000001490837638" endid="#note-0000001803734569" />
                             <pedal xml:id="pedal-0000001181564310" staff="2" startid="#note-0000001360786714" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000869754228" staff="2" startid="#note-0000001360786714" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001760401352" staff="1" startid="#chord-0000000965225645" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001521209080" n="61">
                             <staff xml:id="staff-0000000720718137" n="1">
@@ -2712,10 +2708,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001779840004" staff="1" startid="#chord-0000000965225645" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000725057291" staff="2" startid="#chord-0000000433039012" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001871248896" staff="2" startid="#chord-0000000433039012" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001833682240" staff="1" startid="#chord-0000001650282624" dir="up" place="below" />
                         </measure>
                       </ending>
                       <section n="2">
@@ -2784,12 +2778,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000394499717" staff="1" startid="#chord-0000001650282624" dir="down" place="below" />
                             <tie xml:id="tie-0000001328130153" startid="#note-0000000175954048" endid="#note-0000001968484619" />
                             <tie xml:id="tie-0000001460006422" startid="#note-0000001209331680" endid="#note-0000000724877340" />
                             <pedal xml:id="pedal-0000000210126319" staff="2" startid="#chord-0000000332484831" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001384989085" staff="2" startid="#chord-0000000332484831" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000626328030" staff="1" startid="#chord-0000000300874518" dir="up" place="below" />
                         </measure>
                         <pb xml:id="pb-0000000855294878" />
                         <measure xml:id="measure-0000000993336523" n="63">
@@ -2844,10 +2836,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001127602607" staff="1" startid="#chord-0000000300874518" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000752720167" staff="2" startid="#chord-0000002046722772" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001924568482" staff="2" startid="#chord-0000002046722772" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000978236748" staff="1" startid="#chord-0000000274969877" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000132513623" n="64">
                             <staff xml:id="staff-0000001742267466" n="1">
@@ -2911,10 +2901,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000686874751" staff="1" startid="#chord-0000000274969877" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000412346515" staff="2" startid="#chord-0000000074409830" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001846261277" staff="2" startid="#chord-0000000074409830" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001558532158" staff="1" startid="#chord-0000001880132315" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001716570778" n="65">
                             <staff xml:id="staff-0000000356933957" n="1">
@@ -2973,10 +2961,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002014990668" staff="1" startid="#chord-0000001880132315" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000723330050" staff="2" startid="#chord-0000000738924262" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001173423951" staff="2" startid="#chord-0000000738924262" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000591183048" staff="1" startid="#note-0000000341339681" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001480892884" n="66">
                             <staff xml:id="staff-0000000737358491" n="1">
@@ -3024,10 +3010,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000197049770" staff="1" startid="#note-0000000341339681" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001226427296" staff="2" startid="#chord-0000000086936211" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001059442787" staff="2" startid="#chord-0000000086936211" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001488304602" staff="1" startid="#chord-0000000333200921" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000002066232594" />
                         <measure xml:id="measure-0000002064593972" n="67">
@@ -3102,10 +3086,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001287509934" staff="1" startid="#chord-0000000333200921" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001843292062" staff="2" startid="#chord-0000000363162351" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001569732526" staff="2" startid="#chord-0000000363162351" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001770839884" staff="1" startid="#chord-0000001168130821" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001258938985" n="68">
                             <staff xml:id="staff-0000000344890964" n="1">
@@ -3188,10 +3170,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000402131584" staff="1" startid="#chord-0000001168130821" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000786627886" staff="2" startid="#chord-0000000986063712" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000239459026" staff="2" startid="#chord-0000000986063712" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001405564382" staff="1" startid="#chord-0000000246819604" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000669991669" n="69">
                             <staff xml:id="staff-0000001245116819" n="1">
@@ -3282,10 +3262,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002114905517" staff="1" startid="#chord-0000000246819604" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000016581331" staff="2" startid="#chord-0000000051852428" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000184606834" staff="2" startid="#chord-0000000051852428" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001547845781" staff="1" startid="#chord-0000002098089360" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002146062070" n="70">
                             <staff xml:id="staff-0000000117098305" n="1">
@@ -3336,10 +3314,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001278992206" staff="1" startid="#chord-0000002098089360" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000704697576" staff="2" startid="#chord-0000002040231719" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000879982924" staff="2" startid="#chord-0000002040231719" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000514117031" staff="1" startid="#chord-0000002079102585" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001960321291" />
                         <measure xml:id="measure-0000001567408853" n="71">
@@ -3381,7 +3357,6 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                 </layer>
                             </staff>
                             <pedal xml:id="pedal-0000000434562554" staff="2" startid="#chord-0000000588748146" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001645374612" staff="1" startid="#chord-0000000417177430" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000402060359" n="72">
                             <staff xml:id="staff-0000001122171545" n="1">
@@ -3436,7 +3411,6 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                             <tie xml:id="tie-0000001120067423" startid="#note-0000001871115703" endid="#note-0000000592390606" />
                             <tie xml:id="tie-0000000885764526" startid="#note-0000000894728400" endid="#note-0000000810434824" />
                             <pedal xml:id="pedal-0000000677493420" staff="2" startid="#chord-0000000199318770" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001690374299" staff="1" startid="#chord-0000001926208956" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001975704827" n="73">
                             <staff xml:id="staff-0000000690114226" n="1">
@@ -3477,10 +3451,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000517055800" staff="1" startid="#chord-0000001926208956" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000230750315" staff="2" startid="#chord-0000000268818469" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000284662948" staff="2" startid="#chord-0000000268818469" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000016034110" staff="1" startid="#chord-0000000041849394" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000922943613" n="74">
                             <staff xml:id="staff-0000000796271388" n="1">
@@ -3538,11 +3510,9 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000606933035" staff="1" startid="#chord-0000000041849394" dir="down" place="below" />
                             <tie xml:id="tie-0000000673782784" startid="#note-0000000574970773" endid="#note-0000001294323788" />
                             <pedal xml:id="pedal-0000000180393831" staff="2" startid="#note-0000000395706986" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000501234803" staff="2" startid="#note-0000000395706986" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001258367609" staff="1" startid="#chord-0000000014930179" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001272860118" />
                         <measure xml:id="measure-0000001030235675" n="75">
@@ -3604,12 +3574,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000208035963" staff="1" startid="#chord-0000000014930179" dir="down" place="below" />
                             <tie xml:id="tie-0000000635606828" startid="#note-0000001459847670" endid="#note-0000000234068535" />
                             <tie xml:id="tie-0000000246856746" startid="#note-0000001542703347" endid="#note-0000000249073701" />
                             <pedal xml:id="pedal-0000000454749612" staff="2" startid="#note-0000001484133022" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001791332410" staff="2" startid="#note-0000001484133022" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000590137601" staff="1" startid="#chord-0000000131969130" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001578864492" n="76">
                             <staff xml:id="staff-0000001614739311" n="1">
@@ -3675,12 +3643,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002095781776" staff="1" startid="#chord-0000000131969130" dir="down" place="below" />
                             <tie xml:id="tie-0000001282972557" startid="#note-0000001977779050" endid="#note-0000000807248658" />
                             <tie xml:id="tie-0000000543516624" startid="#note-0000001917971416" endid="#note-0000001810144694" />
                             <pedal xml:id="pedal-0000000059996890" staff="2" startid="#note-0000001460121644" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000899089887" staff="2" startid="#note-0000001460121644" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001819618298" staff="1" startid="#chord-0000001675525227" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000888799548" n="77">
                             <staff xml:id="staff-0000000067695251" n="1">
@@ -3710,10 +3676,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001144260846" staff="1" startid="#chord-0000001675525227" dir="down" place="below" />
                             <pedal xml:id="pedal-0000002033216292" staff="2" startid="#note-0000001539911423" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000168930767" staff="2" startid="#note-0000001539911423" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000132726617" staff="1" startid="#chord-0000000225694474" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000273752132" n="78">
                             <staff xml:id="staff-0000000665853283" n="1">
@@ -3772,12 +3736,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002093256616" staff="1" startid="#chord-0000000225694474" dir="down" place="below" />
                             <tie xml:id="tie-0000000448282234" startid="#note-0000000398357194" endid="#note-0000002045076522" />
                             <tie xml:id="tie-0000000259446791" startid="#note-0000000582617087" endid="#note-0000002136131863" />
                             <pedal xml:id="pedal-0000000615910630" staff="2" startid="#note-0000001267197660" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001476993217" staff="2" startid="#note-0000001267197660" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000202983369" staff="1" startid="#chord-0000001917738027" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001061568202" n="79">
                             <staff xml:id="staff-0000001131203135" n="1">
@@ -3833,13 +3795,11 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000798603009" staff="1" startid="#chord-0000001917738027" dir="down" place="below" />
                             <tie xml:id="tie-0000001686129920" startid="#note-0000002136131863" endid="#note-0000002140395022" />
                             <tie xml:id="tie-0000000081516280" startid="#note-0000000742320695" endid="#note-0000001038437221" />
                             <tie xml:id="tie-0000000366706447" startid="#note-0000001704720602" endid="#note-0000001894120938" />
                             <pedal xml:id="pedal-0000000865685622" staff="2" startid="#note-0000000750991942" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001956529111" staff="2" startid="#note-0000000750991942" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001841151409" staff="1" startid="#chord-0000001660139797" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000000252214812" />
                         <measure xml:id="measure-0000000013293524" n="80">
@@ -3919,10 +3879,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001290145072" staff="1" startid="#chord-0000001660139797" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000728789334" staff="2" startid="#note-0000001512318160" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002061688288" staff="2" startid="#note-0000001512318160" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001207682549" staff="1" startid="#chord-0000000225656166" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000887496201" n="81">
                             <staff xml:id="staff-0000001968920351" n="1">
@@ -3964,10 +3922,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000626834659" staff="1" startid="#chord-0000000225656166" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000740445143" staff="2" startid="#chord-0000001827447836" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002140904071" staff="2" startid="#chord-0000001827447836" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001596874312" staff="1" startid="#chord-0000000436907351" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000871407850" n="82">
                             <staff xml:id="staff-0000001154822499" n="1">
@@ -4025,11 +3981,9 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000349242437" staff="1" startid="#chord-0000000436907351" dir="down" place="below" />
                             <tie xml:id="tie-0000001228328228" startid="#note-0000001296601372" endid="#note-0000001748936343" />
                             <pedal xml:id="pedal-0000001543441347" staff="2" startid="#note-0000000060658359" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000781161831" staff="2" startid="#note-0000000060658359" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000347999322" staff="1" startid="#chord-0000001608702246" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002002925095" n="83">
                             <staff xml:id="staff-0000000380905743" n="1">
@@ -4090,12 +4044,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001410195536" staff="1" startid="#chord-0000001608702246" dir="down" place="below" />
                             <tie xml:id="tie-0000001329842779" startid="#note-0000000044336874" endid="#note-0000001578739497" />
                             <tie xml:id="tie-0000000824333256" startid="#note-0000000597674328" endid="#note-0000002135692088" />
                             <pedal xml:id="pedal-0000001163522547" staff="2" startid="#note-0000000136612044" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001862611758" staff="2" startid="#note-0000000136612044" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000104347749" staff="1" startid="#chord-0000001106561912" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000002089539754" n="84">
                             <staff xml:id="staff-0000000290788148" n="1">
@@ -4161,12 +4113,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000446143374" staff="1" startid="#chord-0000001106561912" dir="down" place="below" />
                             <tie xml:id="tie-0000000877330167" startid="#note-0000002018026894" endid="#note-0000001925529272" />
                             <tie xml:id="tie-0000000109075291" startid="#note-0000000239950698" endid="#note-0000000906030443" />
                             <pedal xml:id="pedal-0000001426809043" staff="2" startid="#note-0000000737967114" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001170457610" staff="2" startid="#note-0000000737967114" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000223849590" staff="1" startid="#chord-0000001385570909" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001775457385" />
                         <measure xml:id="measure-0000001653338641" n="85">
@@ -4197,10 +4147,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000606193788" staff="1" startid="#chord-0000001385570909" dir="down" place="below" />
                             <pedal xml:id="pedal-0000000422057016" staff="2" startid="#note-0000000872036728" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002036026634" staff="2" startid="#note-0000000872036728" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002065511894" staff="1" startid="#chord-0000001942900933" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001774233778" n="86">
                             <staff xml:id="staff-0000001304416093" n="1">
@@ -4259,12 +4207,10 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001588985173" staff="1" startid="#chord-0000001942900933" dir="down" place="below" />
                             <tie xml:id="tie-0000001732755890" startid="#note-0000000462121726" endid="#note-0000001218659936" />
                             <tie xml:id="tie-0000002111238166" startid="#note-0000000188068976" endid="#note-0000000386914850" />
                             <pedal xml:id="pedal-0000001268500780" staff="2" startid="#note-0000001483614621" dir="up" place="below" />
                             <pedal xml:id="pedal-0000002036279346" staff="2" startid="#note-0000001483614621" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000001651253724" staff="1" startid="#chord-0000001175580709" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000260909381" n="87">
                             <staff xml:id="staff-0000000640129093" n="1">
@@ -4315,7 +4261,6 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000094367083" staff="1" startid="#chord-0000001175580709" dir="down" place="below" />
                             <tie xml:id="tie-0000001074931853" startid="#note-0000000386914850" endid="#note-0000000672648510" />
                             <tie xml:id="tie-0000002078538159" startid="#note-0000000055177054" endid="#note-0000001547485573" />
                             <tie xml:id="tie-0000002059591075" startid="#note-0000000646586265" endid="#note-0000000983868441" />
@@ -4323,7 +4268,6 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                             <pedal xml:id="pedal-0000002024798393" staff="2" startid="#note-0000000349421343" dir="down" place="below" />
                             <tie xml:id="tie-0000001227673748" startid="#note-0000000126007227" endid="#note-0000000004903161" />
                             <tie xml:id="tie-0000001775354070" startid="#note-0000001672381482" endid="#note-0000001432936206" />
-                            <pedal xml:id="pedal-0000000528088322" staff="1" startid="#chord-0000000049933407" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000793256704" n="88">
                             <staff xml:id="staff-0000002101376890" n="1">
@@ -4389,7 +4333,6 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </beam>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001231421043" staff="1" startid="#chord-0000000049933407" dir="down" place="below" />
                             <tie xml:id="tie-0000001898332452" startid="#note-0000001747291548" endid="#note-0000000860503965" />
                             <tie xml:id="tie-0000001909119695" startid="#note-0000000286819880" endid="#note-0000002100735436" />
                             <pedal xml:id="pedal-0000002100377838" staff="2" startid="#chord-0000002007420810" dir="up" place="below" />
@@ -4397,7 +4340,6 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                             <tie xml:id="tie-0000001337332762" startid="#note-0000000004903161" endid="#note-0000000925501353" />
                             <tie xml:id="tie-0000001094857825" startid="#note-0000000521881391" endid="#note-0000001907790921" />
                             <tie xml:id="tie-0000001613146180" startid="#note-0000000572071393" endid="#note-0000001105025496" />
-                            <pedal xml:id="pedal-0000001067548079" staff="1" startid="#chord-0000000134058273" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000001176420333" n="89">
                             <staff xml:id="staff-0000001277448804" n="1">
@@ -4451,11 +4393,9 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000582164765" staff="1" startid="#chord-0000000134058273" dir="down" place="below" />
                             <tie xml:id="tie-0000000691340232" startid="#note-0000001975010616" endid="#note-0000000122401837" />
                             <pedal xml:id="pedal-0000001101459163" staff="2" startid="#chord-0000000744435930" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001112763820" staff="2" startid="#chord-0000000744435930" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000938744155" staff="1" startid="#chord-0000001577563317" dir="up" place="below" />
                         </measure>
                         <sb xml:id="sb-0000001672135859" />
                         <measure xml:id="measure-0000000544605972" n="90">
@@ -4509,10 +4449,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000002004817904" staff="1" startid="#chord-0000001577563317" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001450661382" staff="2" startid="#chord-0000002143845847" dir="up" place="below" />
                             <pedal xml:id="pedal-0000001268875805" staff="2" startid="#chord-0000002143845847" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000002104280240" staff="1" startid="#chord-0000000860523859" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000005723801" n="91">
                             <staff xml:id="staff-0000000242759468" n="1">
@@ -4543,10 +4481,8 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001232565130" staff="1" startid="#chord-0000000860523859" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001107671173" staff="2" startid="#chord-0000001991046387" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000912603392" staff="2" startid="#chord-0000001991046387" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000337866851" staff="1" startid="#chord-0000001162561362" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000579385624" n="92">
                             <staff xml:id="staff-0000000580476591" n="1">
@@ -4604,11 +4540,9 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000000456032515" staff="1" startid="#chord-0000001162561362" dir="down" place="below" />
                             <tie xml:id="tie-0000001305129896" startid="#note-0000001763554926" endid="#note-0000000934615604" />
                             <pedal xml:id="pedal-0000000275634880" staff="2" startid="#chord-0000000823912150" dir="up" place="below" />
                             <pedal xml:id="pedal-0000000738831553" staff="2" startid="#chord-0000000823912150" dir="down" place="below" />
-                            <pedal xml:id="pedal-0000000443913051" staff="1" startid="#chord-0000001276249849" dir="up" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000719806652" n="93">
                             <staff xml:id="staff-0000001234603868" n="1">
@@ -4633,7 +4567,7 @@ Add time one to measures 28 - 34. Second time go to meaure "58" DONE
                                     </chord>
                                 </layer>
                             </staff>
-                            <pedal xml:id="pedal-0000001701152246" staff="1" startid="#chord-0000001276249849" dir="down" place="below" />
+                            <pedal xml:id="pedal-0000001701152246" staff="2" startid="#chord-0000001276249849" dir="down" place="below" />
                             <tie xml:id="tie-0000000752845585" startid="#note-0000000106081713" endid="#note-0000001537466125" />
                             <tie xml:id="tie-0000001500458652" startid="#note-0000000110908034" endid="#note-0000000340550247" />
                             <tie xml:id="tie-0000000059538947" startid="#note-0000000539666319" endid="#note-0000000375052454" />
