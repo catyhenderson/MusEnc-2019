@@ -1910,12 +1910,11 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-
   white-space: pre;
 }
 
-mei-filedesc > mei-sourcedesc> mei-respstmt > mei-titlestmt > mei-respstmt > mei-persname[role="arranger"]::before {
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="arranger"]::before {
   font-weight: bold;
   content: '\a'"Arranged by: ";
   white-space: pre;
 }
-
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-physdesc {
   display: none;
