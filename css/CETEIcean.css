@@ -1898,11 +1898,13 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt {
 }
 
 
-mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="composer"] {
-  display: none;
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::before {
+  font-weight: bold;
+  content: '\a'"Composed by: ";
+  white-space: pre;
 }
 
-mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="arranger"]::before {
+mei-filedesc > mei-sourcedesc> mei-respstmt > mei-titlestmt > mei-respstmt > mei-persname[role="arranger"]::before {
   font-weight: bold;
   content: '\a'"Arranged by: ";
   white-space: pre;
